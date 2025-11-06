@@ -1,3 +1,5 @@
+Write a program to check if a number is a perfect number.
+
 #include <stdio.h>
 int main() {
     int perfect_num, sum = 0;
